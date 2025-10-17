@@ -1,4 +1,4 @@
-this code will conatians a addtion of two numbers
+this code will conatians a addtion of two numbersertete
 
 # My-project
 
